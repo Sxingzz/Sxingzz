@@ -1,5 +1,5 @@
-# 💫 Hi there 👋 I’m Sxingzz, a passionate game developer!
-🔭 I’m currently developing immersive games with Unity and Unreal.<br>👯 I’m looking to collaborate on innovative game projects featuring unique mechanics and stunning graphics.<br>🤝 I’m seeking help with optimizing game performance and implementing advanced features like AI and multiplayer.<br>🌱 I’m currently learning how to develop VR/AR games.<br>💬 Ask me about: game development with Unity and Unreal, game design, and industry trends.<br>⚡ Fun fact: I love programming games and am always on the hunt for the next big idea!
+# 💫 Hi there 👋 I’m Sxingzz, 🚀 game developer!
+👯 Open to collaboration on projects that explore innovative mechanics and creative designs.<br>🤝 Eager to learn and improve in areas like performance optimization, AI integration, and multiplayer systems.<br>💬 Happy to discuss topics like game development, game design, and emerging trends in the industry.<br>⚡ Fun fact: I enjoy turning ideas into reality through code and experimenting with new technologies in gaming!
 <img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/97Kh95xbTPCpONLtbg/giphy.gif" />
 
 
