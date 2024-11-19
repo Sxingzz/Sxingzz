@@ -1,4 +1,4 @@
-# 💫 Hi there 👋 I’m Sxingzz, 🚀 game developer!
+# 💫 Hi there 👋 I’m Sxingzz, 🎮 Game developer!
 👯 Open to collaboration on projects that explore innovative mechanics and creative designs.<br>🤝 Eager to learn and improve in areas like performance optimization, AI integration, and multiplayer systems.<br>💬 Happy to discuss topics like game development, game design, and emerging trends in the industry.<br>⚡ Fun fact: I enjoy turning ideas into reality through code and experimenting with new technologies in gaming!
 <img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/97Kh95xbTPCpONLtbg/giphy.gif" />
 
