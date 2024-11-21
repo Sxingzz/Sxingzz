@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sao-hu%E1%BB%B3nh-377a30218/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sao-hu%E1%BB%B3nh/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2312B425.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/saohuynh223)
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/HuangQXingzz)
 [![itch.io](https://img.shields.io/badge/itch.io-%233DA5B8.svg?logo=itch.io&logoColor=white)](https://sxingzz.itch.io)
