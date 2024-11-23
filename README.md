@@ -6,11 +6,24 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sao-hu%E1%BB%B3nh/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2312B425.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/saohuynh223)
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/HuangQXingzz)
 [![itch.io](https://img.shields.io/badge/itch.io-%233DA5B8.svg?logo=itch.io&logoColor=white)](https://sxingzz.itch.io)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@sxingzz99)
+[![Weibo](https://img.shields.io/badge/Weibo-%23E6162D.svg?logo=sina-weibo&logoColor=white)](https://weibo.com/u/7963348721)
+[![Huya](https://img.shields.io/badge/Huya-%23FF7F00.svg?logo=huya&logoColor=white)](https://i.huya.com/)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://www.twitch.tv/sxingzz)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@sxingzz)
 [![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?logo=patreon&logoColor=white)](https://www.patreon.com/c/Sxingzz)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FF813F.svg?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/sxingzz)
+
+<!-- ### Ẩn (commented out)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/HuangQXingzz)
+[![Weibo](https://img.shields.io/badge/Weibo-%23E6162D.svg?logo=sina-weibo&logoColor=white)](https://weibo.com/u/7963348721)
+[![Huya](https://img.shields.io/badge/Huya-%23FF7F00.svg?logo=huya&logoColor=white)](https://i.huya.com/)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://www.twitch.tv/sxingzz)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@sxingzz)
+[![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?logo=patreon&logoColor=white)](https://www.patreon.com/c/Sxingzz)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FF813F.svg?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/sxingzz)
+-->
 
 # 💻 Tech Stack:
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
